@@ -6,7 +6,7 @@ A Power BI report analysing Australian general insurance performance using APRA'
 2. Which insurance lines pay out the most?
 3. How does South Australia compare with other states?
 
-![Industry Overview](images/01-industry-overview.png)
+![Industry Overview](01-industry-overview.png)
 
 ---
 
@@ -29,9 +29,9 @@ A Power BI report analysing Australian general insurance performance using APRA'
 | Insurance Type | Which lines pay out the most? | Ranked bar chart, quarterly heatmap matrix, insurance group slicer |
 | States | How does SA compare? | Claims ratio and revenue by state (SA highlighted), insurance type × state heatmap |
 
-![Insurance Type](images/02-insurance-type.png)
+![Insurance Type](02-insurance-type.png)
 
-![States](images/03-states.png)
+![States](03-states.png)
 
 ---
 
